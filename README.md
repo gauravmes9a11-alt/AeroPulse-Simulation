@@ -59,8 +59,6 @@ Because this simulation is built entirely on native web standards, you can run i
 
 ```text
 ├── index.html          # Main application entry point & UI canvas
-├── style.css           # Layout, design tokens, and HUD overlay styles
-├── script.js           # Core physics/simulation calculations and animations
 └── README.md           # Project documentation and ecosystem links
 ```
 
